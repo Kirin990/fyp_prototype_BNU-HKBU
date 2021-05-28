@@ -1,0 +1,6 @@
+# fyp_prototype_BNU-HKBU
+This project is a preparation for our Final Year Project which we will explore whether it is possible to generate music with AI technology.
+As we all know, in this current era of big data, the progress of AI technology in natural language processing (NLP), machine translation, speech recognition, etc. is obvious to all. In some occasions that do not require high accuracy and artistic literature, such as machine translation, AI technology can already replace humans to a certain extent.
+So, can AI technology and deep learning algorithms generate works of art? Is the human ability to appreciate art works or even academic works to some extent just a psychological implication? Do people appreciate a work because of its own quality or its seemingly professional form and the label of master?
+With corresponding questions and curiosity, we set out to explore the related studies.
+We divide our project into these four parts, first we are going to introduce some music theories closely related to the topic, secondly, we will introduce the LSTM, and then we will implement the algorithm and show the generated music, finally, we will do the evaluation and explain the performance of the result, and show we can improve later on.
